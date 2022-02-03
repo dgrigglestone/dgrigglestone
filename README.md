@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dgrigglestone
+- 👀 I’m interested in improving my skills in software development
+- 🌱 I’m currently learning GIT
+- 💞️ I’m not yet ready to collaborate
+- 📫 I can be reached at david.grigglestone@gmail.com
